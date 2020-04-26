@@ -16,7 +16,7 @@
           "url": "https://github.com/elSkater/mkrnetto/blob/master/mkrnetto.zip",
           "archiveFileName": "mkrnetto.zip",
           "checksum": "SHA-256:a8c4035b154f40542b6ec84ababdc93f8dd1ff50b2c95a0a2ba4ddbbc03de224",
-          "size": "8689306",
+          "size": "13052",
           "boards": [
             {
               "name": "SAMD_MKRNETTO"
